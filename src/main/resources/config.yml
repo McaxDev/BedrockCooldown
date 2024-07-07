@@ -1,0 +1,8 @@
+# The config value is the multiple of the game default value
+# 1.0 means do not change the mechanic.
+# The higher the attack-speed, the less attack cooldown of BE players.
+attack-speed: 1.0
+# Control how far BE players can place/destroy a block.
+block-interaction-range: 1.0
+# Control how far BE players can attack a mob.
+entity-interaction-range: 1.0

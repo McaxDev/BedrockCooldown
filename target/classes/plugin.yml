@@ -1,0 +1,6 @@
+name: BedrockCooldown
+version: '1.0-SNAPSHOT'
+main: cn.mcax.BedrockCooldown
+api-version: 1.21
+depend:
+  - Geyser-Spigot
